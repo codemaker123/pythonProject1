@@ -21,5 +21,6 @@ def print_hi(name):
 
 if __name__ == '__main__':
     print_hi('PyCharm')
+    print("i am fine hhhhh!")
     # demo = BatchRename()
     # demo.rename()
