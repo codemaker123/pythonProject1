@@ -131,3 +131,8 @@ if __name__ == '__main__':
 
     cv2.waitKey()
     cv2.destroyAllWindows()
+
+    print("i am fine hhhhh!")
+    # demo = BatchRename()
+    # demo.rename()
+
